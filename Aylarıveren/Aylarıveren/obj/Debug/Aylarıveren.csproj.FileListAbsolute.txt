@@ -1,0 +1,10 @@
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\bin\Debug\Aylarıveren.exe.config
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\bin\Debug\Aylarıveren.exe
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\bin\Debug\Aylarıveren.pdb
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\obj\Debug\Aylarıveren.csproj.AssemblyReference.cache
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\obj\Debug\Aylarıveren.Form1.resources
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\obj\Debug\Aylarıveren.Properties.Resources.resources
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\obj\Debug\Aylarıveren.csproj.GenerateResource.cache
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\obj\Debug\Aylarıveren.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\obj\Debug\Aylarıveren.exe
+C:\Users\sns_k\source\repos\Aylarıveren\Aylarıveren\obj\Debug\Aylarıveren.pdb
